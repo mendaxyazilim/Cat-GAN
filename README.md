@@ -1,5 +1,5 @@
 # Cat-GAN
 Generating Cats with GANs
 
-#Results
+# Results
 ![gif](https://raw.githubusercontent.com/vee-upatising/Cat-GAN/master/result.gif)
