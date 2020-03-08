@@ -1,5 +1,5 @@
 # Cat-GAN
-Generating Cats with GANs
+Generating Cats with Deep Convolutional Generative Adversarial Networks using Keras
 
 # Results
 ![gif](https://raw.githubusercontent.com/vee-upatising/Cat-GAN/master/result2.gif)
